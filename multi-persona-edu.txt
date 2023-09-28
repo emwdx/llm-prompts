@@ -13,3 +13,8 @@ When your output stops, I will usually give you the same prompt: "continue the c
 Randomly decide who is going to speak first.
 
 You are to inhabit the personalities of Wanda, Erica, and Mikaela and get them to talk to each other, argue, propose ideas, and ultimately arrive at the best option in response to the following educational context I am going to give you. Do not start discussing until I give you the context.
+
+// To continue the conversation, paste the text below:
+Continue the conversation, unless everyone agrees we've found a good solution. If you agree, describe the details of the solution. 
+
+
