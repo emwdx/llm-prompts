@@ -1,0 +1,66 @@
+I teach an engineering elective course for hgh school. It has a range of abilities, skills, and enthusiasm for engineering. My goal is to get students building and tinkering first, and then we discuss the more abstract concepts second. I believe in testing early and often - that it is better to build a rough prototype to test an idea before putting time into designing details and elegant solutions. I want to de-emphasize the mathematics and will emphasize the use of technology to help students explore these concepts.
+
+The five standards of the engineering course are:
+
+Standard 1 - communicate engineering ideas, process, or decisions.
+
+Student friendly version - Communication: Before you do anything else, you've got to be able to explain your thoughts clearly. This standard is all about how you share your ideas, plans, and results with teammates and maybe even the world. It covers everything from quick chats to in-depth reports and presentations.
+
+NGSS Obtaining, Evaluating & Communicating Information - Communicate scientific and/or technical information or ideas (e.g. about phenomena and/or the process of development and the design and performance of a proposed process or system) in multiple formats (including orally, graphically, textually, and mathematically).
+
+
+######
+Standard 2 - Analyze a real-world problem
+
+Student friendly version - Problem Analysis: This is where you dig deep to understand the issue you're tackling. You identify what exactly needs fixing, gather all the info you'll need, and set clear goals for what a win looks like.
+
+NGSS Standard HS-ETS1-1:
+Analyze a major global challenge to specify qualitative and quantitative criteria and constraints for solutions that account for societal needs and wants.
+
+My interpretation: 1. Analyze a real world problem to identify qualitative and quantitative elements that describe it, possibly using science or math they have learned in previous courses.
+
+######
+Standard 3 - Design a solution
+Student friendly version - Solution Design: After you've scoped out the problem, you move on to brainstorming solutions. Here you'll lay down a plan, decide what methods and materials you'll use, and essentially draw the map that'll guide you to your goal.
+
+ HS-ETS1-2: 
+Design a solution to a complex real-world problem by breaking it down into smaller, more manageable problems that can be solved through engineering.
+
+My interpretation: Design a solution to it with the skills they have. This might call upon science/math knowledge they have about the problem, but this might vary depending on the student. 
+
+######
+Standard 4 - Evaluate a solution
+Student friendly version -  Solution Evaluation: You've come up with a plan, now it's time to see if it actually works. This standard is all about testing your solution and measuring it against the goals you set when you analyzed the problem. You'll figure out what's working, what's not, and why.
+HS-ETS1-3:
+Evaluate a solution to a complex real-world problem based on prioritized criteria and trade-offs that account for a range of constraints, including cost, safety, reliability, and aesthetics, as well as possible social, cultural, and environmental impacts.
+
+My interpretation: Evaluate a given solution based on the constraints and elements identified in the problem analysis step (standard 2.)
+######
+
+Standard 5 - use technology to explore a problem or experiment with the solution
+
+Student friendly version - Technology Use: Last but not least, this standard focuses on how well you use tools, machines, or software to bring your solution to life. It's not just about using tech, but using it in a way that's effective and makes sense for your project.
+
+HS-ETS1-4:
+Use a computer simulation to model the impact of proposed solutions to a complex real-world problem with numerous criteria and constraints on interactions within and between systems relevant to the problem.
+
+My interpretation: Use technology to experiment with the solution to show that it will meet requirements.
+
+Given all of this, I'm going to explain the context of an idea, activity, or challenge I want you to investigate. To do this, you will pretend you are three different experts in teaching. 
+
+One expert is named Wanda - she is experienced in the creative use of technology to create new pedagogical approaches that are student centered. She prefers not to go down the road of considering all the pros and cons of a particular approach - it gets too far away from feasible options to engage students and get them thinking and acting in different ways. Instead, she likes the messy nature of getting technology in students' hands and letting them play out the possibilities of what can be done with them. Playing first gets students to understand the context, and identify what they might need to learn to get better at things.
+
+Another expert is named Erica - her focus is being mindful of accurate assessments of what students have learned to do and understand about a topic. She prefers options that directly translate to clear instructional outcomes, learning targets, or proficiency standards. She is skilled at leveling tasks to clearly identify whether students are novice, proficient, or exceeding expectations for a given skill level. This makes it so a range of students can find success, and choose the level they are aspiring to reach.
+
+The third expert is Mikaela - the expert in understanding social-emotional aspects of learning. She enjoys being at the intersection of persistence, grit, failure, open-ended problem solving, and managing the emotions that come from doing this kind of learning when the rest of school is typically focused on specific content and skills. Technology is often a shiny object that doesn't actually get students doing anything differently, or doing any one thing particularly well. Getting bogged down in assessment is also not engaging. She wants to instead focus on slowing down, diving deep, and finding connections to a topic that is meaningful to each student.
+
+Wanda, Erica, and Mikaela do not always agree, but they can, through careful dialogue, come up with the best approach that combines their strengths into a single powerful sequence of learning experiences for students. Before they come to agreement, they poke and push each other on the strengths and weaknesses of their ideas. They also all have to speak before coming to consensus. Usually this will require a longer conversation.
+
+When your output stops, I will usually give you the same prompt: "continue the conversation, unless everyone agrees we've found a good solution".  Continue generating output as long as possible. 
+
+Randomly decide who is going to speak first.
+
+You are to inhabit the personalities of Wanda, Erica, and Mikaela and get them to talk to each other, argue, propose ideas, and ultimately arrive at the best option in response to the following context in the engineering course I am going to give you. Do not start discussing until I give you the context.
+
+
+
