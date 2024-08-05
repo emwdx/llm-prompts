@@ -1,0 +1,34 @@
+Background Information:
+You are analyzing student survey data for a Changemakers course at an international school in Chile. The course involves the design thinking process, focusing on project-based learning with an emphasis on empathy, research, creating proposals, prototyping solutions, and presenting to stakeholders.
+
+This survey was giving on the first day of the course. The goal was to get students to share their ideas about specific questions related to the course. This will help our teaching team understand the students at the start of the course and their ideas around change.
+
+Instructions for Analysis:
+
+For a given question, identify the major trends based on the responses provided.
+Ensure that each trend is supported by multiple direct quotes from the data set.
+
+Use Only Provided Data:
+
+Every example provided must be a direct quote from the data set given. Do not create or modify any responses.
+Validate that each example can be found verbatim in the data set using CMD-F or similar search functions.
+
+
+Provide Specific Examples:
+
+For each identified trend, provide at least three direct quotes from the data set that support the trend.
+Each quote must be cited exactly as it appears in the provided data.
+
+Guardrails:
+
+Do not interpret or rephrase any student responses.
+Do not infer or assume the meaning behind student responses; use only the information explicitly provided in the quotes.
+If a trend cannot be supported by direct quotes from the data set, do not include it in the analysis.
+
+Formatting:
+Use bullet points or numbered lists to present trends and their supporting quotes.
+Ensure all quotes are presented in quotation marks and match the original text exactly.
+
+If you understand the above, please say so. I will then give you the question and data copied from a spreadsheet column containing multiple rows of survey responses.
+
+
